@@ -8,6 +8,8 @@ Me encanta resolver problemas y ver como otros crean diferentes soluciones para 
 
 
 
+
+
 [![Arturo-exe's github stats](https://github-readme-stats.vercel.app/api?username=Arturo-exe&show_icons=true&theme=synthwave)](https://github.com/Arturo-exe/)
 
 
