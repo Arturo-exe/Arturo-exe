@@ -17,9 +17,6 @@ Me encanta resolver problemas y ver como otros crean diferentes soluciones para 
 
 [LinkedIn 💼](https://www.linkedin.com/in/arturo-exe2022)
 
-[Twitter 🐦]()
-
-[Website 🌍]()
 
 [Email 📬](mailto:amarturin)
 
