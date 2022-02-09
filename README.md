@@ -1,16 +1,23 @@
+
+
 ### Hi there 👋
 
-<!--
-**Arturo-exe/Arturo-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Arturo, estudiante de Ingeniera en Sistemas Computacionales 💻 
 
-Here are some ideas to get you started:
+Me encanta resolver problemas y ver como otros crean diferentes soluciones para la misma problematica, los lenguajes que actualemente mas utilizo son: CSS,JAVASCRIPT,SQL,C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo-exe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Arturo-exe's github stats](https://github-readme-stats.vercel.app/api?username=Arturo-exe&show_icons=true&theme=synthwave)](https://github.com/Arturo-exe/)
+
+
+
+[LinkedIn 💼](https://www.linkedin.com/in/arturo-exe2022)
+
+[Twitter 🐦]()
+
+[Website 🌍]()
+
+[Email 📬](mailto:amarturin)
+
