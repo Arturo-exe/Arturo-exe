@@ -4,7 +4,9 @@
 
 Me llamo Arturo, estudiante de Ingeniera en Sistemas Computacionales 💻 
 
-Me encanta resolver problemas y ver como otros crean diferentes soluciones para la misma problematica, los lenguajes que actualemente mas utilizo son: CSS,JAVASCRIPT,SQL,C#
+Me encanta resolver problemas y ver como otros crean diferentes soluciones para la misma problematica, los lenguajes que actualemente mas utilizo son: CSS,JAVASCRIPT,SQL,C#.
+<br><br><br>
+Full Stack Developer, passionate about learning and teaching new technologies. Stacks (JavaScript, Django, Rails, React). Looking for remote opportunities
 
 <br>
 <br>
